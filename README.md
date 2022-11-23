@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Allen-505
+- 👀 I'm a App Developer (IOS & Android)
+- 🌱 Learning New things , everyday
+- 💞️ I’m looking to collaborate with programmers who could make good user interfaces
